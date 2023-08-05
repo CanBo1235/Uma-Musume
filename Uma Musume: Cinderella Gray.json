@@ -12,6 +12,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/nCeJBfP"
       }
+    },
+    "2": {
+      "title": "Chương 2",
+      "volume": "1",
+      "last_updated": "1691244353",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9zKJl3g"
+      }
+    },
+    "3": {
+      "title": "Chương 3",
+      "volume": "1",
+      "last_updated": "1691244408",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yWr3ksE"
+      }
+    },
+    "4": {
+      "title": "Chương 4",
+      "volume": "1",
+      "last_updated": "1691244465",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vUcztWk"
+      }
     }
   }
 }
