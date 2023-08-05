@@ -4,5 +4,14 @@
   "artist": "Kuzumi Taiyou",
   "author": "ITOU Junnosuke, SUGIURA Masafumi, Cygames",
   "cover": "https://i.imgur.com/HKvFFkt.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chương 1",
+      "volume": "1",
+      "last_updated": "1691244080",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nCeJBfP"
+      }
+    }
+  }
 }
